@@ -1,0 +1,4 @@
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS                    NAMES
+287cc5e6244a        e6c8fe2e1108        "python3"           10 minutes ago      Up 10 minutes       0.0.0.0:8080->8080/tcp   samplerunning
+CONTAINER ID        IMAGE               COMMAND             CREATED             STATUS              PORTS                    NAMES
+287cc5e6244a        e6c8fe2e1108        "python3"           14 minutes ago      Up 14 minutes       0.0.0.0:8080->8080/tcp   samplerunning
